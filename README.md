@@ -4,15 +4,13 @@
 ![gma](https://user-images.githubusercontent.com/82051128/210650476-b153229d-b70e-4d24-ad8a-ed08b6a3144b.png)
 
 
-# Note:
-     This RAT communicates Via Gmail SMTP (or u can use any other smtps as well) but Gmail SMTP is valid
-     because most of the companies block unknown traffic so gmail traffic is valid and allowed everywhere.
+# Note
+> This RAT communicates Via Gmail SMTP (or u can use any other smtps as well) but Gmail SMTP is valid because most of the companies block unknown traffic so gmail traffic is valid and allowed everywhere.
   
 # Warning:
-     1. Don't Upload Any Payloads To VirusTotal.com Bcz This tool will not work
-        with Time.
-     2. Virustotal Share Signatures With AV Comapnies.
-     3. Again Don't be an Idiot!
+* Don't Upload Any Payloads To VirusTotal.com Bcz This tool will not work with Time.
+* Virustotal Share Signatures With AV Comapnies.
+* Again Don't be an Idiot!
    
 # How To Setup
      1. Create Two seperate Gmail Accounts.
@@ -43,21 +41,20 @@
      1. Make Sure All Requriements is installed.
      2. python3 server.py  (on server side)
 # C2 Feature:-
-     1) Persistence (type persist)
-     2) Shell Access 
-     3) System Info (type info)
-     4) More Features Will Be Added 
+- [x] Persistence (type persist)
+- [x] Shell Access 
+- [x] System Info (type info)
+- [x] More Features Will Be Added 
     
 # Features:-
-
-    1) FUD Ratio 0/40
-    2) Bypass Any EDR's Solutions
-    3) Bypass Any Network Restrictions
-    4) Commands Are Being Sent in Base64 And Decoded on server side
-    5) No More Tcp Shits
+- [x] FUD Ratio 0/40
+- [x] Bypass Any EDR's Solutions
+- [x] Bypass Any Network Restrictions
+- [x] Commands Are Being Sent in Base64 And Decoded on server side
+- [x] No More Tcp Shits
   
 # Warning:-
-    Use this tool Only for Educational Purpose And I will Not be Responsible For ur cruel act.
+> Use this tool Only for Educational Purpose And I will Not be Responsible For ur cruel act.
   
     
    
